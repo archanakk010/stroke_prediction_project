@@ -5,7 +5,7 @@ This project builds a **Machine Learning classification model** to predict wheth
 Repository includes:
 - `stroke_project.ipynb` → complete workflow notebook
 - `healthcare-dataset-stroke-data.csv` → dataset used in this project  
-:contentReference[oaicite:1]{index=1}
+
 
 ---
 
@@ -16,7 +16,7 @@ The goal of this project is to **predict `stroke` (0/1)** using supervised machi
 ---
 
 ## Dataset
-File: `healthcare-dataset-stroke-data.csv` :contentReference[oaicite:2]{index=2}
+File: `healthcare-dataset-stroke-data.csv`
 
 Typical columns include:
 - `gender`, `age`
